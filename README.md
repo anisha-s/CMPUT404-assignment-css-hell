@@ -32,6 +32,7 @@ webketje, 25 April 2014, CC-BY-SA 3.0, https://stackoverflow.com/a/23282348
 Changes made in the gutenberg files  
 ====================================  
 1) The css defined in the files were removed, css of 3.html was used as the base to build the bookStyle.css file  
-2)Common Styles for tilte moved into css  
-3)If the book had different parts, then they were changed from chapter class to class parts
+2) Common Styles for tilte moved into css   
+3) If the book had different parts, then they were changed from chapter class to class parts 
+
 

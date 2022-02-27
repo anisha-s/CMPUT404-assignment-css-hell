@@ -1,0 +1,95 @@
+*{
+   margin-left: 5px;
+   padding: 0;
+   font-family: sans-serif, cursive;}
+
+.hero{
+    margin-left: 0;
+    height: 30%;
+    width: 100%;
+    position: relative;
+    background-color: #F9E79F;
+    }
+
+img{
+    height: 20vh;
+    width: 40 px;
+    position: center;
+    border-radius: 20px;
+    }
+
+h1{
+    color: #148F77;
+    }
+
+h1.name{
+    color: #C0392B;}
+
+h3, h4, h5{
+    margin-left: 15px;
+    }
+
+nav{
+    display: flex;
+    width: 96%;
+    height: 100%;
+    padding: 10px 10px;
+    text-align: center;
+    justify-content: space-around;
+    }
+
+nav ul li{
+            list-type-style: None;
+            display: inline-block;
+            }
+
+p{
+    margin-left: 25px;
+    }
+
+p.about{
+    margin-left: 10px}
+
+p.edu{
+    margin-left:35px;
+    }
+
+div.main-body{
+                width: 50%;
+                height: 60%;
+                top:0;
+                left:0;
+                float:left;
+                }
+
+div.side-bar{
+             margin-top: 60px;
+             margin-right: 60px;
+             width: 90%
+             height: 100%
+             border-color: #6C3483;
+             float: right;
+             display: fixed;
+             z-index: 1;
+             top: 0;
+             right: 0;
+             border-radius: 8px;
+             border-style: solid;
+             padding: 10px 15px;
+    }
+
+.side-bar ul li{ padding: 2px 15px;
+                 margin-left: 25px;
+  }
+
+.side-bar p{ padding: 2px 15px;
+             margin-left: 30px;
+  }
+
+a:link {color:blue;
+        text-decoration:underline}
+
+a:visited {color:blue;
+           text-decoration:underline}
+
+span{ color: grey;}

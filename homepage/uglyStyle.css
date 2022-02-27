@@ -1,0 +1,111 @@
+*{
+   background-color: #DFFF00;
+   padding: 10px 8px;
+   color:#7D3C98 ;
+   border-radius: 60px;
+   margin-left: 10px;
+    }
+
+div.side-bar{background-color: red;
+             margin-top: 10px;
+             margin-right: 120px;
+             width: 80%
+             height: 60%
+             border-color: #6C3483;
+             float: right;
+             display: fixed;
+             z-index: 1;
+             top: 0;
+             right: 0;
+             border-radius: 100px;
+             border-style: solid;
+             padding: 10px 10px;
+    }
+
+div.main-body{
+                width: 50%;
+                height: 60%;
+                top:0;
+                left:0;
+                float:left;
+                }
+
+nav{
+    display: flex;
+    width: 96%;
+    height: 100%;
+    padding: 10px 10px;
+    text-align: center;
+    justify-content: space-around;
+    float: right;
+    top:0;
+    right:60%;
+    }
+
+
+img.image h1.name{
+                   float: left;}
+
+div.exp1{ width: 40%;
+          height: 60%;
+          top:0;
+          left:0;
+          float:left;}
+
+div.exp2{width:40%;
+        height: 60%;
+        float: right;
+        top:0;
+        right: 0}
+
+div.edu{width: 30%;
+        height: 60%;
+        top:0;
+        right:0;
+        float:right;
+        position: relative;
+}
+
+
+div.exp{
+        width: 120%;
+        height: 80%;
+}
+
+div.photo{
+        top:0;
+        left:0;
+        float:left;
+}
+
+div.navi{
+        float: right;
+        top:0;
+        right: 100px
+        left: 100px}
+
+h3{background-color:#0000FF;
+   color:black;
+   border-radius: 100px;}
+
+h4{background-color:#00FF00;
+   color:black
+   border-radius: 100px;}
+
+h1{color:#00FFFF}
+
+div.side-bar p{
+                background-color: #00FF00;
+                 color: #FF00FF;
+                 border-radius: 70px;}
+
+div.about{width: 50%;
+        height: 60%;
+        top:0;
+        left:0;
+        float:left;
+        position: relative;
+}
+
+div.exp{
+         float: left}
